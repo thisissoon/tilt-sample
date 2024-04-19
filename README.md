@@ -2,7 +2,7 @@
 
 This repo is used as an example of how Tilt can be used to manage tasks within a microservice monorepo. This is roughly styled to be similar to how we at SOON_ use Tilt.
 
-This is the companion repo to our [Tilt At SOON_](TODO) blog post.
+This is the companion repo to our [Tilt At SOON_](https://medium.com/soon-london/tilt-at-soon-2ac1cdfea9a6) blog post.
 
 ## Structure
 
